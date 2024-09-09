@@ -1,0 +1,9 @@
+Blog Project:
+
+username: yokib
+password: yokib0123
+
+MongoDB Compass URL:- mongodb+srv://yokib:yokib@8924@cluster0.bqr62.mongodb.net/
+
+MongoDB remote URL:-  
+mongodb+srv://<name:yokib>:<password:yok123>@cluster0.bqr62.mongodb.net/<dbname-demo-test>?retryWrites=true&w=majority&appName=Cluster0
